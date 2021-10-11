@@ -1,0 +1,6 @@
+C:\Users\Jakub\source\repos\CPU Urban\CPU Urban\bin\CPU Urban.dll
+C:\Users\Jakub\source\repos\CPU Urban\CPU Urban\bin\CPU Urban.pdb
+C:\Users\Jakub\source\repos\CPU Urban\CPU Urban\obj\Debug\CPU Urban.csproj.AssemblyReference.cache
+C:\Users\Jakub\source\repos\CPU Urban\CPU Urban\obj\Debug\CPU Urban.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\source\repos\CPU Urban\CPU Urban\obj\Debug\CPU Urban.dll
+C:\Users\Jakub\source\repos\CPU Urban\CPU Urban\obj\Debug\CPU Urban.pdb
